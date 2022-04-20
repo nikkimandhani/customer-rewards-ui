@@ -1,0 +1,25 @@
+
+.ActionItems {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ViewDetails{
+    display: inline-flex;
+    font-size: small;
+}
+
+.ViewDetails:hover{
+    color: #5e1d8a;
+    border-bottom: 1px solid #5e1d8a;
+}
+
+.ViewDetailsIcon{
+    margin: 2px 0 0 2px;
+}
+
+.Title {
+    color: #5e1d8a;
+    font-weight: 600;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,265 @@
+{
+  "transactions": [
+    {
+      "customerId": 1,
+      "customerName": "Alex",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 50
+        },
+        {
+          "month": 2,
+          "rewards": 40
+        }
+      ],
+      "totalRewards": 90
+    },
+    {
+      "customerId": 2,
+      "customerName": "Bryant",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 100
+        },
+        {
+          "month": 2,
+          "rewards": 40
+        },
+        {
+          "month": 3,
+          "rewards": 140
+        }
+      ],
+      "totalRewards": 280
+    },
+    {
+      "customerId": 3,
+      "customerName": "Nilay",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 300
+        },
+        {
+          "month": 2,
+          "rewards": 0
+        },
+        {
+          "month": 3,
+          "rewards": 80
+        }
+      ],
+      "totalRewards": 380
+    },
+    {
+      "customerId": 4,
+      "customerName": "Shraddha",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 200
+        },
+        {
+          "month": 2,
+          "rewards": 40
+        },
+        {
+          "month": 3,
+          "rewards": 20
+        }
+      ],
+      "totalRewards": 260
+    },
+    {
+      "customerId": 5,
+      "customerName": "Ryan",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 200
+        },
+        {
+          "month": 2,
+          "rewards": 40
+        },
+        {
+          "month": 3,
+          "rewards": 20
+        }
+      ],
+      "totalRewards": 260
+    },
+    {
+      "customerId": 6,
+      "customerName": "Tim",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 140
+        },
+        {
+          "month": 2,
+          "rewards": 40
+        },
+        {
+          "month": 3,
+          "rewards": 20
+        }
+      ],
+      "totalRewards": 200
+    },
+    {
+      "customerId": 7,
+      "customerName": "Aksh",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 240
+        },
+        {
+          "month": 2,
+          "rewards": 20
+        },
+        {
+          "month": 3,
+          "rewards": 20
+        }
+      ],
+      "totalRewards": 280
+    },
+    {
+      "customerId": 8,
+      "customerName": "Tanay",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 500
+        },
+        {
+          "month": 2,
+          "rewards": 40
+        },
+        {
+          "month": 3,
+          "rewards": 10
+        }
+      ],
+      "totalRewards": 550
+    }, {
+      "customerId": 9,
+      "customerName": "Tina",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 20
+        },
+        {
+          "month": 2,
+          "rewards": 40
+        },
+        {
+          "month": 3,
+          "rewards": 20
+        }
+      ],
+      "totalRewards": 80
+    }, {
+      "customerId": 10,
+      "customerName": "Lombok",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 100
+        },
+        {
+          "month": 2,
+          "rewards": 100
+        },
+        {
+          "month": 3,
+          "rewards": 100
+        }
+      ],
+      "totalRewards": 300
+    }, {
+      "customerId": 11,
+      "customerName": "Tika",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 400
+        },
+        {
+          "month": 2,
+          "rewards": 20
+        }
+      ],
+      "totalRewards": 420
+    },
+    {
+      "customerId": 12,
+      "customerName": "Anita",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 400
+        },
+        {
+          "month": 2,
+          "rewards": 20
+        }
+      ],
+      "totalRewards": 420
+    },
+    {
+      "customerId": 13,
+      "customerName": "Ridhima",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 80
+        },
+        {
+          "month": 2,
+          "rewards": 20
+        }
+      ],
+      "totalRewards": 100
+    },
+    {
+      "customerId": 14,
+      "customerName": "Jay",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 40
+        },
+        {
+          "month": 2,
+          "rewards": 20
+        }
+      ],
+      "totalRewards": 60
+    },{
+      "customerId": 15,
+      "customerName": "Harit",
+      "rewardsByMonth": [
+        {
+          "month": 1,
+          "rewards": 40
+        },
+        {
+          "month": 2,
+          "rewards": 200
+        },
+        {
+          "month": 3,
+          "rewards": 400
+        }
+      ],
+      "totalRewards": 640
+    }
+    ]
+}
