@@ -20,6 +20,10 @@ It is located in src/server/customer_rewards.json
 3. npm run start
 Navigate to localhost:3006/ it will load table which display data about customer reward points.
 
+#screenshots
+
+![Total_Rewards](https://user-images.githubusercontent.com/20744638/164125079-58545fa2-4110-46a0-a654-c8e1f996bcc4.png)
+![Monthly_Reward](https://user-images.githubusercontent.com/20744638/164125086-bcefaadc-a179-4142-99a8-0b675c03898c.png)
 
 
 
